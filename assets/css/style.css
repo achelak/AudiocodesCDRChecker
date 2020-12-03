@@ -1,0 +1,35 @@
+.table_title {
+  white-space: nowrap;
+  }
+  
+  .table-container {
+    width: 99%;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+  }
+
+  .nov-bar-container{
+    margin-top: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px ;
+  }
+  
+  .search-box{
+  width: 80%;
+  margin-top: 30px;
+  margin-left: 10px !important;
+  margin-left: 5px !important;
+  }
+  
+  .colortext{
+        color: orange;
+  }
+
+  .nav-link{
+    color: rgb(233, 188, 106) !important;
+  }
