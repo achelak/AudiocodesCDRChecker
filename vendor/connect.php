@@ -1,5 +1,5 @@
 <?php
-    $dbname = getenv('POSTGRES_DB_NAME');
+    $dbname = getenv('POSTGRES_DB');
     $user = getenv('POSTGRES_USER');
     $password = getenv('POSTGRES_PASSWORD');
 
